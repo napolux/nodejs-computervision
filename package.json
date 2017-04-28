@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-openalpr": "^1.1.1",
     "node-tesseract": "^0.2.7",
     "opencv": "^6.0.0"
   }
